@@ -7,3 +7,4 @@
 <h4> The app takes the user input and matches it through an array of words. If it matches, the letter replaces a dash in the word to guess. if it doesn't, the guesses number decrements by 1. </h4>
 
 <h3> A demo video is available for download.</h3>
+https://github.com/DavidDemian/Word-Guess-Cons/blob/master/9B4C37EA-38ED-4F93-9367-E48992E9D200.mov
